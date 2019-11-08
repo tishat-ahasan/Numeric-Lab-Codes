@@ -4,5 +4,6 @@
  
  >Plotting an Equation
  >>plotting the equation (-x\*\*2+x+1)/x
+ 
  >False Position Method
  >>finding the root of x^2-x-2 in the rang of 1<x<3 using false Position Method.
