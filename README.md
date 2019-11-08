@@ -1,4 +1,4 @@
- ** Numeric Lab Code ** 
+ **Numeric Lab Codes:** 
  
  This repository contains the codes of course CSE:3212-Numerical Methods Lab of Department of Computer Science and Engineering,University of Dhaka.Codes added till now is: 
  
